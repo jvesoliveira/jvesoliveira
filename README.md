@@ -29,6 +29,3 @@ I'm continuously improving these skills through coursework, research, and person
 - Strengthen my skills in R and SQL.
 
 - Develop practical projects in Statistics and Data Analysis.
-
-## 📫 Contact
-
