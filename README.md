@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Expedito! 👋
 
-<!--
-**jvesoliveira/jvesoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Statistics undergraduate at UNICAMP
 
-Here are some ideas to get you started:
+Here you'll find academic assignments, data analysis projects, and practical applications of statistical methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Background & Experience
+
+- 📊 Studying Statistics at UNICAMP.
+
+- 🔬 Former undergraduate researcher in advanced energy storage, working on the manufacturing of pouch battery cells.
+
+- 🎓 Technical degree in Administration from IFSP.
+
+- 📈 Interested in statistical analysis, data-driven decision-making, and quantitative methods.
+
+## 🌱 Technologies & Skills
+
+- R — Data manipulation, exploratory data analysis, and statistical computing.
+
+- SQL — Database querying and data manipulation.
+
+- Git & GitHub — Version control and project organization.
+
+- LaTeX / Quarto — Technical and academic reporting.
+
+I'm continuously improving these skills through coursework, research, and personal projects.
+
+## 🎯 Current Goals
+
+- Strengthen my skills in R and SQL.
+
+- Develop practical projects in Statistics and Data Analysis.
+
+- Improve my knowledge of statistical modeling and data visualization.
+
+- Apply quantitative methods to real-world problems.
+
+## 📫 Contact
+
