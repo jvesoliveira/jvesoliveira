@@ -12,8 +12,6 @@ Here you'll find academic assignments, data analysis projects, and practical app
 
 - 🎓 Technical degree in Administration from IFSP.
 
-- 📈 Interested in statistical analysis, data-driven decision-making, and quantitative methods.
-
 ## 🌱 Technologies & Skills
 
 - R — Data manipulation, exploratory data analysis, and statistical computing.
@@ -31,10 +29,6 @@ I'm continuously improving these skills through coursework, research, and person
 - Strengthen my skills in R and SQL.
 
 - Develop practical projects in Statistics and Data Analysis.
-
-- Improve my knowledge of statistical modeling and data visualization.
-
-- Apply quantitative methods to real-world problems.
 
 ## 📫 Contact
 
